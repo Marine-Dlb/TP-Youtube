@@ -1,0 +1,35 @@
+.navbar{
+    background-color: white;
+    margin-left: 40px;
+}
+
+.navbar.darkmode{
+    background-color: black ;
+    margin-left: 40px;
+}
+
+.navbar-brand{
+    color: black;
+}
+
+.navbar-brand.darkmode{
+    color: white;
+}
+.recherche{
+    margin: 0 270px 0 100px;
+}
+
+.video{
+    margin-left: 60px;
+    font-weight: bold;
+}
+
+.card1{
+    margin-left: 60px;
+}
+
+.custom-control{
+    margin-right: 30px;
+}
+
+
