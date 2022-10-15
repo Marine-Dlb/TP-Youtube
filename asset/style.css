@@ -1,3 +1,6 @@
+body.darkmode{
+    background: black;
+}
 .navbar{
     background-color: white;
     margin-left: 40px;
@@ -19,11 +22,14 @@
     margin: 0 270px 0 100px;
 }
 
-.video{
+.titres{
     margin-left: 60px;
     font-weight: bold;
 }
 
+.titres.darkmode{
+    background: black;
+}
 .card1{
     margin-left: 60px;
 }
